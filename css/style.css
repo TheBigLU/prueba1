@@ -1,0 +1,80 @@
+body {
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.main {
+	background: url('../images/bg.jpg') center center;
+	background-size: cover;
+	padding-top: 30px;
+	padding-bottom: 60px;
+}
+
+.logo {
+	height: 50px;
+	position: fixed;
+	top:20px;
+}
+
+.main .headline {
+	text-transform: uppercase;
+	color: #FFF;
+	font-size: 46px;
+	padding-top: 30px;
+	text-align: center;
+}
+
+.main .call-to-action {
+	text-align: center;
+	padding-top: 50px;
+}
+
+
+.main .headline-caption{
+	color: #FFF ;
+	text-align: center;
+	padding-top: 30px;
+	font-size: 24px;
+}
+
+.main .navbar-latam {
+	background-color: rgba(0, 0, 0, 0);
+	border-color: rgba(0, 0, 0, 0);
+
+}
+
+
+.bajada {
+	text-align: center;
+}
+
+
+.jumbo {
+	
+	background-color: black;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: yellow;
+	margin-top: 20px;
+	border: solid 2px;
+	border-color: red;
+}
+
+.color1{
+	background-color: olive;
+}
+
+.color2{
+	background-color: peru;
+}
+
+.form-horizontal {
+	padding-top: 20px;
+}
+
+.datos .btn {
+	position: absolute;
+	right: -180px;
+}
