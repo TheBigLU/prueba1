@@ -94,3 +94,22 @@ body {
 	margin-right: 50px;
 	margin-top: 20px;
 }
+
+
+.hacker {
+	background: url('../images/probg.jpg') center center;
+	background-size: cover;
+	padding-top: 20px;
+	color: #FFF;
+	text-align: center;
+	
+}
+
+
+
+
+.social {
+width: 75px;
+float: right;
+right:0px;
+}
