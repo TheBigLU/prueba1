@@ -60,6 +60,11 @@ body {
 	margin-top: 20px;
 	border: solid 2px;
 	border-color: red;
+	font-weight: bold;
+}
+
+.jumbotron .p {
+	font-size: 300px;
 }
 
 .color1{
@@ -77,4 +82,15 @@ body {
 .datos .btn {
 	position: absolute;
 	right: -180px;
+}
+
+.empresas{
+	background-color: lightblue;
+}
+
+.logo_empresas{
+	float: left;
+	width: 150px;
+	margin-right: 50px;
+	margin-top: 20px;
 }
